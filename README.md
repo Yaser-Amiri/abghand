@@ -1,7 +1,7 @@
 # Abghand
 Just another simple TCP proxy that works on HTTP and HTTPS flows.
 
-To use Abghand, first you need to send your traffic to Abghand by setting DNS records in `/etc/hosts`. Then define the domains Abghand should proxy their traffic in the config file.
+To use Abghand, first you need to send your traffic to Abghand by setting DNS records in `/etc/hosts`. Then define the domains that you want to proxy their traffic in the config file.
 
 This is a sample of Abghand config file:  
 
